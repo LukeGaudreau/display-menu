@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/F-3r/xrandr.rb
+  revision: 4bcb693cc7012d413a1b9c7731ea20b586ae55ce
+  specs:
+    xrandr (0.0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  xrandr!
+
+BUNDLED WITH
+   1.16.1

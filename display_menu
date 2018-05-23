@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+$HOME/.local/bin/displayctl menu | rofi -dmenu -p "Display Modes:" | $HOME/.local/bin/displayctl
+
